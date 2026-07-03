@@ -1,0 +1,27 @@
+{
+  "email": "srajang544@gmail.com",
+  "phone": "+91 8000274741",
+  "location": "Vellore, India",
+  "links": [
+{
+  "label": "GitHub",
+  "value": "github.com/xsrajangupta/xsrajangupta",
+  "href": "https://github.com/xsrajangupta/xsrajangupta",
+  "icon": "🐙"
+},
+{
+  "label": "LinkedIn",
+  "value": "linkedin.com/in/srajan-gupta-33965831b",
+  "href": "https://www.linkedin.com/in/srajan-gupta-33965831b",
+  "icon": "💼"
+},
+    { "label": "Email", "value": "srajang544@gmail.com", "href": "mailto:srajang544@gmail.com", "icon": "✉️" },
+    { "label": "Phone", "value": "+91 8000274741", "href": "tel:+918000274741", "icon": "📞" },
+ {
+  "label": "Instagram",
+  "value": "@srajan_.27",
+  "href": "https://www.instagram.com/srajan_.27",
+  "icon": "📸"
+} 
+]
+}

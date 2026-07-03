@@ -1,0 +1,34 @@
+{
+  "timeline": [
+    {
+  "category": "Education",
+  "title": "B.Tech in Electronics & Communication Engineering",
+  "org": "Vellore Institute of Technology (VIT), Vellore",
+  "period": "2024 – Present",
+  "detail": "Built multiple FPGA and Embedded Systems projects. Experienced with Verilog HDL, Arduino, Digital Electronics, and Sensors. Skilled in Quartus Prime, ModelSim, Git, and VS Code. Continuously expanding expertise in Embedded Systems, FPGA Design, and AI technologies."
+},
+{
+      "category": "Research",
+      "title": "PSD Verification: Non-Negativity & Even Symmetry",
+      "org": "VIT Vellore — Random Processes Mini Project",
+      "period": "Jan 2026 — Apr 2026",
+      "detail": "Proved and verified two core PSD properties of WSS random processes analytically (Wiener–Khinchin theorem) and numerically in MATLAB.",
+      "abstract": "Investigated and verified two fundamental properties of the Power Spectral Density (PSD) of a Wide-Sense Stationary (WSS) random process: non-negativity and even symmetry. The properties were first established analytically using the Wiener–Khinchin theorem, then validated through MATLAB simulation using an exponentially decaying autocorrelation function R_X(τ) = e^(−a|τ|) as the model, chosen for its mathematical tractability and closed-form Fourier transform (a Lorentzian PSD). Non-negativity was proved from the definition of PSD as a limiting expected squared-magnitude quantity, and confirmed algebraically since the Lorentzian expression is strictly positive for all finite frequencies. Even symmetry was proved from the real, even nature of the autocorrelation function, and confirmed by showing S_X(−f) = S_X(f) is invariant under f → −f. Two parallel MATLAB approaches were used: an analytical plot of the closed-form Lorentzian PSD, and an FFT-based periodogram of a simulated WSS process (MA-filtered Gaussian noise). Both methods numerically confirmed a minimum PSD value of 0.000671 (≥ 0, non-negative) and a symmetry error of 0 at machine precision — matching the theoretical proofs exactly.",
+      "team": "With Surya Pratap Singh ",
+      "tools": ["MATLAB", "Signal Processing Toolbox"],
+"github": "coming soon"
+    },
+    {
+      "category": "Research",
+      "title": "Audio Noise Cancellation using Wiener Filter",
+      "org": "VIT Vellore — DSP Seminar",
+      "period": "2026",
+      "detail": "Designed and implemented a Wiener-filter based noise cancellation system in MATLAB, improving SNR on noisy speech signals.",
+      "abstract": "Designed and implemented an audio noise cancellation system using the Wiener filter technique to recover a clean speech signal s(n) from a noisy observation x(n) = s(n) + d(n). The Wiener filter is an optimal linear filter that minimizes the mean square error between the original and estimated signal, operating in the frequency domain using the power spectral densities of the signal and noise (assumed uncorrelated and stationary). Pipeline: load and normalize clean audio, add white Gaussian noise, estimate signal/noise PSDs via the Welch method, compute the Wiener gain and filter the noisy signal, then evaluate. Performance was evaluated using Signal-to-Noise Ratio (SNR), Peak SNR, and spectrogram comparison before/after filtering, plus a listening test. Results showed a significant improvement in signal quality and intelligibility after filtering, demonstrating the Wiener filter as an efficient, optimal classical approach for noise reduction — with applications spanning noise-cancelling headphones, VoIP/video conferencing, hearing aids, medical signal processing (ECG/EEG), and automotive voice assistants.",
+      "team": "With Surya Pratap Singh",
+      "tools": ["MATLAB", "Wiener Filtering", "Spectrogram Analysis"],
+      "github": "coming soon"
+    }
+  ]
+}
+

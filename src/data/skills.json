@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "Programming Languages",
+      "items": [
+        { "name": "Verilog", "icon": "🔧", "level": 85 },
+        { "name": "C/C++", "icon": "💻", "level": 88 },
+        { "name": "Python", "icon": "🐍", "level": 90 },
+        { "name": "JavaScript", "icon": "⚡", "level": 85 },
+        { "name": "HTML/CSS", "icon": "🎨", "level": 90 },
+        { "name": "Java", "icon": "☕", "level": 85 }
+      ]
+    },
+    {
+      "name": "Embedded Systems & FPGA",
+      "items": [
+        { "name": "Embedded Systems", "icon": "🔩", "level": 80 },
+        { "name": "FPGA Design", "icon": "🧩", "level": 78 },
+        { "name": "Microcontrollers", "icon": "🖲️", "level": 82 },
+        { "name": "Digital Logic Design", "icon": "🔢", "level": 85 }
+      ]
+    },
+    {
+      "name": "Tools",
+      "items": [
+        { "name": "Quartus Prime", "icon": "🛠️", "level": 75 },
+        { "name": "ModelSim", "icon": "📈", "level": 75 },
+        { "name": "Git", "icon": "🌿", "level": 88 },
+        { "name": "VS Code", "icon": "🖥️", "level": 92 },
+        { "name": "MATLAB", "icon": "📊", "level": 70 },
+        { "name": "Arduino", "icon": "🔌", "level": 82 },
+        { "name": "AI & Machine Learning", "icon": "🧠", "level": 80 }
+      ]
+    }
+  ]
+}

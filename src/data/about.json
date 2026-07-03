@@ -1,0 +1,12 @@
+{
+  "name": "Srajan Gupta",
+  "role": "Electronics & Communication Engineer",
+  "location": "Vellore, India",
+  "bio": "Electronics and Communication Engineering student at Vellore Institute of Technology (VIT), Vellore, with hands-on experience in FPGA, Verilog HDL, Embedded Systems, Digital Electronics, and AI-driven solutions. Passionate about designing innovative hardware and software systems, with a strong interest in Embedded Systems, FPGA Design, Artificial Intelligence, and Software Development. Actively seeking internship, research, and software engineering opportunities to apply technical skills, solve real-world problems, and contribute to impactful projects.",
+  "highlights": [
+    { "icon": "🔧", "label": "Focus", "value": "Core Electronics" },
+    { "icon": "🎓", "label": "Studying", "value": "B.Tech, Electronics & Communication @ VIT VELLORE" },
+    { "icon": "🚀", "label": "Currently", "value": "Learning Embedded C & AIML" },
+    { "icon": "🌱", "label": "Also into", "value": "Robotics, web tools, finance, marketing" }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Portfolio Town",
+    "description": "Interactive 2D pixel-art portfolio built with Phaser 3 where visitors can explore projects, skills, achievements, education, and more through immersive gameplay.",
+    "tech": ["Phaser 3", "Tiled", "Vite", "JavaScript"],
+    "github": "https://github.com/xsrajangupta/portfolio-town",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "FPGA Smart Irrigation Control System",
+    "description": "Developed an FPGA-based Smart Irrigation System using Verilog HDL to automatically control irrigation based on soil moisture and humidity.",
+    "tech": ["Verilog HDL", "FPGA", "Quartus Prime", "ModelSim"],
+    "github": "https://github.com/xsrajangupta/FPGA-Smart-Irrigation-System",
+    "demo": "https://drive.google.com/file/d/19o7DxYKCdi66io2fKc9_NoezE70cMnx6/view?usp=sharing",
+    "image": ""
+  },
+  {
+    "title": "Digital IC Tester",
+    "description": "Arduino-based Digital IC Tester capable of verifying the functionality of basic logic ICs including AND, OR, NOT, NAND, and NOR gates.",
+    "tech": ["Arduino", "C/C++", "Embedded Systems"],
+    "github": "https://github.com/xsrajangupta/Digital-IC-Tester",
+    "demo": "https://drive.google.com/file/d/1xPILlLeKeK-KiLPB_d2OFwuPdc2gzpxe/view?usp=sharing",
+    "image": ""
+  },
+  {
+    "title": "Digital Dice",
+    "description": "Digital Dice using NE555 Timer with pseudo-random number generation and real-time seven-segment display output.",
+    "tech": ["Verilog HDL", "NE555 Timer", "Digital Electronics"],
+    "github": "https://github.com/xsrajangupta/Digital-Dice-Using-555-Timer",
+    "demo": "https://youtu.be/ymk6-CeHx30?si=twRo-l5dyd4D3nlg",
+    "image": ""
+  },
+  {
+    "title": "Smart Hand Gesture Control System",
+    "description": "Arduino-powered hand gesture control system using ultrasonic sensors to perform touchless computer interactions.",
+    "tech": ["Arduino", "Python", "OpenCV"],
+    "github": "https://github.com/xsrajangupta/Smart-Hand-Gesture-Control-System",
+    "demo": "https://drive.google.com/file/d/1MdnQXskgsOg6xsDrl0HZ7sqBsIohdeHR/view?usp=sharing",
+    "image": ""
+  },
+  {
+    "title": "Audio Amplifier with Stage",
+    "description": "Designed and implemented a multi-stage audio amplifier to achieve stable signal amplification with improved audio quality.",
+    "tech": ["Analog Electronics", "ESP32", "Circuit Design"],
+    "github": "https://github.com/xsrajangupta/Analog-Audio-Amplifier-ESP32",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": " Audio Noise Cancellation using Wiener Filter",
+    "description": "Designed a MATLAB-based audio noise cancellation system using the Wiener Filter to improve speech quality through optimal signal processing techniques.",
+    "tech": ["MATLAB", "Digital Signal Processing", "Wiener Filter"],
+    "github": "",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "PSD Verification using MATLAB",
+    "description": "Verified the non-negativity and even symmetry properties of the Power Spectral Density (PSD) of WSS random processes through analytical derivation and MATLAB simulation.",
+    "tech": ["MATLAB", "Random Processes", "Signal Processing"],
+    "github": "",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "Coming Soon",
+    "description": "A new and exciting project is currently under development. Stay tuned for future updates!",
+    "tech": [],
+    "github": "",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "Coming Soon",
+    "description": "Another innovative project will be added here soon. More exciting work is on the way!",
+    "tech": [],
+    "github": "",
+    "demo": "",
+    "image": ""
+  }
+]

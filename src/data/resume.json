@@ -1,0 +1,23 @@
+{
+  "downloadUrl": "/resume.pdf",
+  "viewUrl": "/resume.pdf",
+  "summary": "ECE student at VIT Vellore specializing in FPGA, Embedded Systems, Verilog HDL, and AI. Dedicated to developing innovative, real-world hardware and software solutions.",
+  
+"experience": [
+  {
+    "role": "Academic Project Developer",
+    "org": "VIT Vellore",
+    "period": "2024 — Present",
+    "detail": "Built multiple FPGA, Embedded Systems, and Arduino-based projects while gaining hands-on experience with Verilog HDL, Quartus Prime, ModelSim, Git, and VS Code."
+  }
+],
+  
+  "education": [
+  {
+    "role": "B.Tech, Electronics & Communication Engineering",
+    "org": "Vellore Institute of Technology (VIT), Vellore",
+    "period": "2024 — 2028",
+    "detail": "Current CGPA: 9.11/10 (through 2nd year). Strong foundation in Digital Electronics, Embedded Systems, FPGA Design, and Software Development. Completed multiple hands-on projects using Verilog HDL, Arduino, Quartus Prime, ModelSim, Git, and VS Code while continuously exploring Artificial Intelligence and modern hardware design."
+  }
+]
+}
