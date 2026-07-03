@@ -1,0 +1,32 @@
+{
+  "timeline": [
+    {
+      "category": "Internship",
+      "title": "Embedded Systems Intern",
+      "org": "Company Name",
+      "period": "Jun 2025 — Aug 2025",
+      "detail": "Developed and tested firmware for a sensor array, reducing power draw by 18%."
+    },
+    {
+      "category": "Research",
+      "title": "FPGA-based DSP Research Assistant",
+      "org": "University Lab",
+      "period": "Jan 2025 — May 2025",
+      "detail": "Implemented a pipelined FIR filter on FPGA, published findings in a departmental symposium."
+    },
+    {
+      "category": "Achievement",
+      "title": "Hackathon Winner",
+      "org": "Regional Hackathon",
+      "period": "2025",
+      "detail": "First place among 40 teams for a rapid embedded-systems prototype."
+    },
+    {
+      "category": "Leadership",
+      "title": "Technical Lead, Robotics Club",
+      "org": "University Robotics Club",
+      "period": "2024 — Present",
+      "detail": "Leading a team of 12 on FPGA and embedded projects; organized 3 workshops."
+    }
+  ]
+}

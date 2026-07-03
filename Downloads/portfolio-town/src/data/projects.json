@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Portfolio Town",
+    "description": "This site — a walkable Phaser 3 + Tiled portfolio with an NPC guide and six themed buildings.",
+    "tech": ["Phaser 3", "Tiled", "Vite", "JavaScript"],
+    "github": "https://github.com/yourname/portfolio-town",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "FPGA Traffic Light Controller",
+    "description": "A finite-state-machine traffic light controller implemented in Verilog and synthesized on a Cyclone FPGA.",
+    "tech": ["Verilog", "Quartus Prime", "ModelSim"],
+    "github": "https://github.com/yourname/fpga-traffic-controller",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "Embedded Sensor Logger",
+    "description": "Arduino-based multi-sensor data logger with SD card storage and a serial dashboard.",
+    "tech": ["C/C++", "Arduino", "Embedded Systems"],
+    "github": "https://github.com/yourname/sensor-logger",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "Real-Time Signal Visualizer",
+    "description": "MATLAB tool for visualizing and filtering real-time signal data with adjustable FFT windows.",
+    "tech": ["MATLAB", "Signal Processing"],
+    "github": "https://github.com/yourname/signal-visualizer",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "Task Tracker Web App",
+    "description": "A full-stack task manager with drag-and-drop boards and team collaboration.",
+    "tech": ["React", "Node.js", "MongoDB"],
+    "github": "https://github.com/yourname/task-tracker",
+    "demo": "https://your-demo-link.example.com",
+    "image": ""
+  },
+  {
+    "title": "Python Automation Toolkit",
+    "description": "A collection of scripts that automate repetitive data-cleaning and reporting tasks.",
+    "tech": ["Python", "Pandas"],
+    "github": "https://github.com/yourname/automation-toolkit",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "UART Communication Module",
+    "description": "Custom UART transmitter/receiver core written and verified in Verilog with ModelSim testbenches.",
+    "tech": ["Verilog", "ModelSim"],
+    "github": "https://github.com/yourname/uart-module",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "Weather Dashboard",
+    "description": "A responsive weather dashboard consuming a public API with 5-day forecasts.",
+    "tech": ["JavaScript", "HTML/CSS", "API"],
+    "github": "https://github.com/yourname/weather-dashboard",
+    "demo": "https://your-demo-link.example.com",
+    "image": ""
+  },
+  {
+    "title": "Line-Following Robot",
+    "description": "An Arduino-driven line-following robot with PID-tuned motor control.",
+    "tech": ["C/C++", "Arduino", "Embedded Systems"],
+    "github": "https://github.com/yourname/line-follower",
+    "demo": "",
+    "image": ""
+  },
+  {
+    "title": "Portfolio API Backend",
+    "description": "A small REST API that serves structured project/resume data (an earlier version of this site's data layer).",
+    "tech": ["Node.js", "Express"],
+    "github": "https://github.com/yourname/portfolio-api",
+    "demo": "",
+    "image": ""
+  }
+]

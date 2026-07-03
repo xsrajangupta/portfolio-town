@@ -1,0 +1,12 @@
+{
+  "name": "Srajan",
+  "role": "Embedded Systems & Software Engineer",
+  "location": "Delhi, India",
+  "bio": "I build things that sit close to the hardware — firmware, FPGA pipelines, and the tools around them — and I enjoy the occasional web project just as much, like this portfolio town.",
+  "highlights": [
+    { "icon": "🔧", "label": "Focus", "value": "Embedded systems & FPGA design" },
+    { "icon": "🎓", "label": "Studying", "value": "B.Tech, Electronics & Communication" },
+    { "icon": "🚀", "label": "Currently", "value": "Building & researching DSP pipelines" },
+    { "icon": "🌱", "label": "Also into", "value": "Robotics, web tools, pixel art" }
+  ]
+}

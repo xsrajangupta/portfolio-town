@@ -1,0 +1,30 @@
+[
+  {
+    "title": "FPGA Design Fundamentals",
+    "issuer": "Intel FPGA University Program",
+    "date": "2025",
+    "detail": "Covered RTL design, timing closure, and Quartus Prime workflows.",
+    "link": ""
+  },
+  {
+    "title": "Embedded Systems with Arduino",
+    "issuer": "Coursera",
+    "date": "2024",
+    "detail": "Hands-on microcontroller programming, sensors, and real-time control.",
+    "link": ""
+  },
+  {
+    "title": "Python for Data Science",
+    "issuer": "edX",
+    "date": "2024",
+    "detail": "Data manipulation, visualization, and basic ML with Python.",
+    "link": ""
+  },
+  {
+    "title": "Digital Logic Design",
+    "issuer": "University Certification",
+    "date": "2023",
+    "detail": "Boolean algebra, combinational/sequential circuits, and HDL basics.",
+    "link": ""
+  }
+]

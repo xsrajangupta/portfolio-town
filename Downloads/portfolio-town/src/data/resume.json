@@ -1,0 +1,12 @@
+{
+  "downloadUrl": "/resume.pdf",
+  "viewUrl": "/resume.pdf",
+  "summary": "Software / embedded systems engineer focused on FPGA design, embedded firmware, and interactive web tools.",
+  "experience": [
+    { "role": "Embedded Systems Intern", "org": "Company Name", "period": "Jun 2025 — Aug 2025", "detail": "Firmware development for a sensor array product line." },
+    { "role": "Research Assistant", "org": "University Lab", "period": "Jan 2025 — May 2025", "detail": "FPGA-based DSP pipeline research." }
+  ],
+  "education": [
+    { "role": "B.Tech, Electronics & Communication", "org": "University Name", "period": "2022 — 2026", "detail": "" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "email": "srajan@example.com",
+  "phone": "+91 90000 00000",
+  "location": "Delhi, India",
+  "links": [
+    { "label": "GitHub", "value": "github.com/srajan", "href": "https://github.com/srajan", "icon": "🐙" },
+    { "label": "LinkedIn", "value": "linkedin.com/in/srajan", "href": "https://linkedin.com/in/srajan", "icon": "💼" },
+    { "label": "Email", "value": "srajan@example.com", "href": "mailto:srajan@example.com", "icon": "✉️" },
+    { "label": "Phone", "value": "+91 90000 00000", "href": "tel:+919000000000", "icon": "📞" }
+  ]
+}
