@@ -1,4 +1,4 @@
-# 🏘️ Portfolio Town – Interactive Pixel-Art Portfolio
+#  Portfolio Town – Interactive Pixel-Art Portfolio
 
 <p align="center">
 
@@ -11,11 +11,11 @@
 
 ## 🌐 Live Portfolio
 
-🚀 **Website:** https://portfolio-town-blush.vercel.app
+ **Website:** https://portfolio-town-blush.vercel.app
 
 ---
 
-## 📖 Overview
+##  Overview
 
 **Portfolio Town** is a fully interactive **2D pixel-art portfolio** built using **Phaser 3**, **JavaScript**, and **Vite**.
 
@@ -25,24 +25,24 @@ An in-game NPC guide welcomes visitors and helps them navigate the entire experi
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎮 Interactive RPG-style portfolio
-- 🏠 Explore multiple themed buildings
-- 👨‍🏫 NPC Guide with welcome dialogue
-- 📂 Projects showcase with GitHub & Demo links
-- 📄 Resume viewer and download
-- 💻 Skills with proficiency indicators
-- 🎓 Education timeline
-- 🏆 Achievements section
-- 📞 Contact information
-- 💾 Auto-save using LocalStorage
-- 🔊 Background music & sound effects
-- 📱 Fully responsive for desktop, tablet & mobile
+-  Interactive RPG-style portfolio
+-  Explore multiple themed buildings
+-  NPC Guide with welcome dialogue
+-  Projects showcase with GitHub & Demo links
+-  Resume viewer and download
+-  Skills with proficiency indicators
+-  Education timeline
+-  Achievements section
+-  Contact information
+-  Auto-save using LocalStorage
+-  Background music & sound effects
+-  Fully responsive for desktop, tablet & mobile
 
 ---
 
-## 🕹️ Controls
+##  Controls
 
 | Action | Key |
 |---------|-----|
@@ -53,7 +53,7 @@ An in-game NPC guide welcomes visitors and helps them navigate the entire experi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Phaser 3
 - JavaScript (ES6+)
@@ -64,20 +64,20 @@ An in-game NPC guide welcomes visitors and helps them navigate the entire experi
 
 ---
 
-## 🏘️ Buildings
+##  Buildings
 
 | Building | Description |
 |----------|-------------|
-| 💼 Projects | Explore featured engineering and software projects |
-| 📄 Resume | View and download my resume |
-| 💻 Skills | Technical skills and proficiency |
-| 🎓 Education | Academic journey and CGPA |
-| 🏆 Achievements | Certifications and accomplishments |
-| 📞 Contact | GitHub, LinkedIn, Email and Social Links |
+|  Projects | Explore featured engineering and software projects |
+|  Resume | View and download my resume |
+|  Skills | Technical skills and proficiency |
+|  Education | Academic journey and CGPA |
+|  Achievements | Certifications and accomplishments |
+|  Contact | GitHub, LinkedIn, Email and Social Links |
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone Repository
 
@@ -143,7 +143,7 @@ portfolio-town/
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 All editable portfolio content is stored inside:
 
@@ -164,7 +164,7 @@ without modifying the game logic.
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The game automatically adapts to:
 
@@ -177,7 +177,7 @@ Touch controls appear automatically on mobile devices.
 
 ---
 
-## 💾 Save System
+##  Save System
 
 The portfolio automatically saves:
 
@@ -188,7 +188,7 @@ using **LocalStorage**, allowing visitors to continue from where they left off.
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 This project is deployed on **Vercel**.
 
@@ -205,7 +205,7 @@ The project can also be deployed on:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Srajan Gupta**
 
@@ -229,6 +229,6 @@ If you found this project helpful, consider giving it a **⭐ Star** on GitHub!
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License**.
