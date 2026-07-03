@@ -11,7 +11,7 @@
 
 ## 🌐 Live Portfolio
 
- **Website:** https://portfolio-town-blush.vercel.app
+ **Website:** [https://portfolio-town-blush.vercel.app](https://portfolio-town-sigma.vercel.app/)
 
 ---
 
@@ -213,7 +213,7 @@ Electronics & Communication Engineering Student
 
 Vellore Institute of Technology (VIT), Vellore
 
-🌐 Portfolio: https://portfolio-town-blush.vercel.app
+🌐 Portfolio: [https://portfolio-town-blush.vercel.ap](https://portfolio-town-sigma.vercel.app/)
 
 💼 LinkedIn: https://www.linkedin.com/in/srajan-gupta-33965831b
 
