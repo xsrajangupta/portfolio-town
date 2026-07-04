@@ -51,7 +51,7 @@
     "title": " Audio Noise Cancellation using Wiener Filter",
     "description": "Designed a MATLAB-based audio noise cancellation system using the Wiener Filter to improve speech quality through optimal signal processing techniques.",
     "tech": ["MATLAB", "Digital Signal Processing", "Wiener Filter"],
-    "github": "",
+    "github": "https://github.com/xsrajangupta/Researches-in-Signal-Processing/tree/main/Audio%20Noise%20Cancellation%20using%20Wiener%20Filter",
     "demo": "",
     "image": ""
   },
@@ -59,7 +59,7 @@
     "title": "PSD Verification using MATLAB",
     "description": "Verified the non-negativity and even symmetry properties of the Power Spectral Density (PSD) of WSS random processes through analytical derivation and MATLAB simulation.",
     "tech": ["MATLAB", "Random Processes", "Signal Processing"],
-    "github": "",
+    "github": "https://github.com/xsrajangupta/Researches-in-Signal-Processing/tree/main/Verification%20of%20the%20Non-Negativity%20and%20Even%20Symmetry%20Properties",
     "demo": "",
     "image": ""
   },
