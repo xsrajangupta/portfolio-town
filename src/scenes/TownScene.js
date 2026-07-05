@@ -8,7 +8,7 @@ import { isLightboxOpen, closeLightbox } from '../ui/Lightbox.js';
 import { AudioManager } from '../audio/AudioManager.js';
 import { registerUiSound } from '../ui/uiSound.js';
 import { loadSave, saveState } from '../save/SaveManager.js';
-import { isRatingOpen, closeRating } from '../ui/RatingPanel.js';
+
 
 const hintEl = document.getElementById('interact-hint');
 const hintLabelEl = document.getElementById('interact-hint-label');
@@ -629,7 +629,6 @@ export class TownScene extends Phaser.Scene {
 
    this.input.keyboard.on('keydown-ESC', () => {
   if (isLightboxOpen()) closeLightbox();
-  else if (isRatingOpen()) closeRating();   // ← yeh naya add kiya
   else if (isOpen()) closeSection();
   else if (isDialogueOpen()) closeDialogue();
 });
