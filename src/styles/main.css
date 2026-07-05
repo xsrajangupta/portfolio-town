@@ -331,6 +331,111 @@ html, body {
 }
 .settings-btn:hover { background: #212936; transform: scale(1.06); }
 .settings-btn:active { transform: scale(0.95); }
+/* ---------- Rate My Town button ---------- */
+.rate-town-btn {
+  position: absolute;
+  top: 16px;
+  right: 68px;
+  height: 44px;
+  padding: 0 14px;
+  border-radius: 10px;
+  border: 2px solid var(--color-border);
+  background: rgba(20, 24, 31, 0.85);
+  color: var(--color-accent);
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  z-index: 60;
+  transition: transform 0.12s ease, background 0.12s ease;
+}
+.rate-town-btn:hover { background: #212936; transform: scale(1.06); }
+.rate-town-btn:active { transform: scale(0.95); }
+
+@media (max-width: 520px) {
+  .rate-town-btn { right: 16px; top: 66px; }
+}
+
+/* ---------- Rate My Town overlay ---------- */
+.rating-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(6, 8, 11, 0.72);
+  backdrop-filter: blur(2px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 70;
+  transition: opacity 0.2s ease;
+  padding: 24px;
+}
+.rating-overlay.hidden { opacity: 0; pointer-events: none; }
+
+.rating-panel {
+  position: relative;
+  width: min(420px, 100%);
+  background: var(--color-panel);
+  border: 3px solid var(--color-border);
+  border-radius: 14px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  padding: 28px 26px 24px;
+  animation: panel-in 0.18s ease;
+}
+.rating-panel h1 { margin: 4px 0 8px; font-size: 22px; }
+.rating-subtitle {
+  margin: 0 0 18px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--color-text-dim);
+}
+
+.rating-stars {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+.rating-star {
+  background: none;
+  border: none;
+  font-size: 34px;
+  line-height: 1;
+  color: #3a4351;
+  cursor: pointer;
+  padding: 0;
+  transition: transform 0.1s ease, color 0.1s ease;
+}
+.rating-star:hover { transform: scale(1.12); }
+.rating-star.is-filled { color: var(--color-accent); }
+
+.rating-comment {
+  width: 100%;
+  resize: vertical;
+  min-height: 90px;
+  background: var(--color-panel-alt);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 14px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+}
+.rating-comment:focus { outline: 2px solid var(--color-accent); outline-offset: 1px; }
+
+.rating-error {
+  color: #ef7a7a;
+  font-size: 12px;
+  margin: 4px 0 10px;
+}
+.rating-error.hidden { display: none; }
+
+.rating-submit {
+  width: 100%;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  margin-top: 4px;
+}
 
 /* ---------- NPC Dialogue box ---------- */
 .dialogue-overlay {
