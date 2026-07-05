@@ -2,7 +2,7 @@ import Phaser from 'phaser';
 import { GAME } from './config.js';
 import { PreloadScene } from './scenes/PreloadScene.js';
 import { TownScene } from './scenes/TownScene.js';
-import './ui/RatingPanel.js';
+
 
 const config = {
   type: Phaser.AUTO,
